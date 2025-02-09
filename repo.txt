@@ -1,3 +1,5 @@
 https://github.com/elowbe/ez-chat
 https://github.com/elowbe/ez-seed
 https://github.com/elowbe/generate-image-flux
+https://github.com/elowbe/fast-hunyuan
+https://github.com/elowbe/video-to-stereo3d
