@@ -1,2 +1,3 @@
 https://github.com/elowbe/ez-chat
 https://github.com/elowbe/ez-seed
+https://github.com/elowbe/clovis-generate-image
