@@ -5,3 +5,4 @@ https://github.com/elowbe/fast-hunyuan
 https://github.com/elowbe/video-to-stereo3d
 https://github.com/elowbe/video-depth-anything
 https://github.com/elowbe/depth-anything-v2
+https://github.com/elowbe/image-to-stereo3d
